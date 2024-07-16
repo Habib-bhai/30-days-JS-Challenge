@@ -1,3 +1,5 @@
+// VARIABLES & DATA TYPES
+
 // ACTIVITY.1: VARIABLE DECLARATION
 var num = 10
 console.log(num);

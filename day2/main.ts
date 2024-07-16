@@ -1,3 +1,5 @@
+// OPERATORS
+
 // // ACTIVITY.1: ARITHEMATIC OPERATORS.
 // console.log(10 + 20); // Programm to add 2 number
 // console.log(30 - 20); // Programm to subtract 2 number

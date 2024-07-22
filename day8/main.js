@@ -1,5 +1,4 @@
 //  ES6+ FEATURES
-var _a;
 // Activity.NO.1: Template Literals
 // let pName = "habib"
 // let age = 18
@@ -43,8 +42,8 @@ var _a;
 //     }
 // } 
 // console.log(person1.greeting());
-var userName = "name";
-var obj = (_a = {},
-    _a[userName] = "John",
-    _a);
-console.log(obj);
+// let userName = "name"
+// let obj = {
+//     [userName] : "John"
+// }
+// console.log(obj);
